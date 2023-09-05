@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: black;
+    text-align: center;
+    display: block;
+    padding: 8vh calc(50% - 200px);
+    font-family: "MS PGothic", "Tahoma", "Arial", sans-serif;
+    color: #8A88AC;
+}
